@@ -20,4 +20,5 @@ func main() {
 	fmt.Println("value of pointer ", ptr)
 
 	fmt.Println("version 2")
+	fmt.Println("version 3")
 }
