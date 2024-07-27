@@ -18,4 +18,6 @@ func main() {
 	fmt.Println("value of pointer ", P)
 	fmt.Println("value of roll", roll3)
 	fmt.Println("value of pointer ", ptr)
+
+	fmt.Println("version 2")
 }
