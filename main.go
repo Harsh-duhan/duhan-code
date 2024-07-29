@@ -23,4 +23,6 @@ func main() {
 	fmt.Println("version 3")
 	fmt.Println("version 4")
 	fmt.Println("version 5")
+	fmt.Println("version 6")
+	fmt.Println("version 7")
 }
