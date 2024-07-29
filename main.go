@@ -26,4 +26,5 @@ func main() {
 	fmt.Println("version 6")
 	fmt.Println("version 7")
 	fmt.Println("version 8")
+	fmt.Println("version 10")
 }
